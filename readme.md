@@ -6,11 +6,7 @@ Developed as part of the GENERATIVE AI HACKATHON 2026*
 --- Gen AI for All: Empowering Every Mind, Every Stream — One Prompt at a Tim* _SmartBridge_
 Powered by _NASSCOM FutureSkills Prime_.
 
-## 🚀 Live Demo
 
-[👉 Click here to launch StyleSense](https://stylesense-techstylistteam.streamlit.app/)
-
----
 
 ## 🚀 Features
 
@@ -21,13 +17,13 @@ Powered by _NASSCOM FutureSkills Prime_.
 - Interactive charts and visualization
 - Trend-based image gallery
 
-### 🤖 AI Virtual Fashion Assistant
+### 🤖 StyleGPT: Your Personal AI Stylist: Suggesting Outfits, Shoes, and Accessories.
 
 - Chat-based fashion advisor
 - Answers questions about outfits, occasions, and styling
 - Powered by Groq API
 
-### ✨ Personalized Styling System
+### ✨ DressMeAI: Personalized AI Styling Guide
 
 - Body-type based recommendations
 - Aesthetic and comfort-based suggestions
