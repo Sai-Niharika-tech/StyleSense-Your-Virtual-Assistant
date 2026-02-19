@@ -1,0 +1,121 @@
+# 👗 StyleSense – AI-Powered Fashion Recommendation Platform
+
+StyleSense is an AI-driven fashion platform that provides personalized outfit recommendations, trend forecasting, virtual styling assistance, and sustainable fashion insights.
+
+Developed as part of the GENERATIVE AI HACKATHON 2026*
+--- Gen AI for All: Empowering Every Mind, Every Stream — One Prompt at a Tim* _SmartBridge_
+Powered by _NASSCOM FutureSkills Prime_.
+
+## 🚀 Live Demo
+
+[👉 Click here to launch StyleSense](https://stylesense-techstylistteam.streamlit.app/)
+
+---
+
+## 🚀 Features
+
+### 📈 Fashion Trend Forecasting
+
+- Analyzes historical trend data
+- Predicts future fashion popularity
+- Interactive charts and visualization
+- Trend-based image gallery
+
+### 🤖 AI Virtual Fashion Assistant
+
+- Chat-based fashion advisor
+- Answers questions about outfits, occasions, and styling
+- Powered by Groq API
+
+### ✨ Personalized Styling System
+
+- Body-type based recommendations
+- Aesthetic and comfort-based suggestions
+- Occasion-based outfit generation
+- Powered by Gemini AI
+
+### 🌿 Sustainable Fashion Insights
+
+- Suggests eco-friendly fabric alternatives
+- Explains environmental impact
+- Promotes sustainable choices
+- Powered by Gemini AI
+
+---
+
+## 🛠 Tech Stack
+
+Frontend: Streamlit  
+Backend: Python  
+AI Models: Groq, Google Gemini  
+Visualization: Plotly, Matplotlib  
+ML: Scikit-learn  
+Deployment: Streamlit Cloud
+
+---
+
+## 📁 Project Structure
+
+StyleSense/
+│
+├── StyleSense2.py
+├── trend_forecasting.py
+├── virtual_fashion_assistant.py
+├── personalStyling.py
+├── Sustainable.py
+├── trend_data.csv
+├── requirements.txt
+└── README.md
+
+---
+
+## ⚙️ Installation
+
+Clone repository:
+
+git clone https://github.com/your-username/StyleSense.git
+
+Install packages:
+
+pip install -r requirements.txt
+
+---
+
+## ▶️ Run App
+
+streamlit run StyleSense2.py
+
+Open: http://localhost:8501
+
+---
+
+## 🌐 Deployment
+
+Use Streamlit Cloud:
+https://share.streamlit.io
+
+Add secrets:
+
+GROQ_API_KEY  
+GEMINI_API_KEY
+
+---
+
+## 📊 Dataset
+
+trend_data.csv contains popularity scores from 0 to 100.
+
+---
+
+## 👩‍💻 Developer
+
+Avidha Shaik - 23EG105R27
+Sai Niharika - 23EG105R31
+Minhaz Asmin - 23EG105R45
+Keerthi Bodige -23EG105R62
+
+---
+
+## 📄 License
+
+For educational and hackathon use only.
