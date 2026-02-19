@@ -69,7 +69,7 @@ StyleSense/
 
 Clone repository:
 
-git clone https://github.com/your-username/StyleSense.git
+git clone https://github.com/Sai-Niharika-tech/StyleSense-Your-Virtual-Assistant
 
 Install packages:
 
@@ -79,27 +79,19 @@ pip install -r requirements.txt
 
 ## ▶️ Run App
 
-streamlit run StyleSense2.py
+streamlit run main.py
 
 Open: http://localhost:8501
 
 ---
 
-## 🌐 Deployment
-
-Use Streamlit Cloud:
-https://share.streamlit.io
-
-Add secrets:
-
-GROQ_API_KEY  
-GEMINI_API_KEY
-
----
 
 ## 📊 Dataset
 
+The dataset was programmmatically generated to simulate real-world fashion popularity patterns over time. 
+It was structured to resemble time-series search interest data.
 trend_data.csv contains popularity scores from 0 to 100.
+
 
 ---
 
